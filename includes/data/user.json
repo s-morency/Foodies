@@ -1,0 +1,133 @@
+[
+    {
+      "userId": 0,
+      "username": "john_doe",
+      "email": "john.doe1@example.com",
+      "preferences": [
+        "Mexicain",
+        "Americain"
+      ],
+      "password": "$2y$10$6LrHkVXEkQK2QbTIvrnXjuZO7q2zxcvJJoBs7vykNwXjQqx8KKbfS"
+    },
+    {
+      "userId": 1,
+      "username": "jane_smith",
+      "email": "jane.smith@example.com",
+      "preferences": [
+        "Mexicain",
+        "Asiatique"
+      ],
+      "password": "$2y$10$gt7s9cqtiSCIR2JrTS9hDu3TXFWN3kKrPbeGRzqTqT.9kO8lxwaui"
+    },
+    {
+      "userId": 2,
+      "username": "suzanne_tremblay",
+      "email": "suxanne.tremblay@example.com",
+      "preferences": [
+        "Asiatique",
+        "Americain"
+      ],
+      "password": "$2y$10$hYlbtYHSALvu/GauQZ3j3.PiMB5jC4CA0nWwpShhrWRHif5WsYUPK"
+    },
+    {
+      "userId": 3,
+      "username": "michel_dupont",
+      "email": "michel.dupont@example.com",
+      "preferences": [
+        "Francais",
+        "Italien"
+      ],
+      "password": "$2y$10$lITmJkxCkRyNYbuCAMkujOb/JTx.kp38FwVAoNJGH6h2yERcWLKve"
+    },
+    {
+      "userId": 4,
+      "username": "Test",
+      "email": "test@test.com",
+      "preferences": [
+        "Italien",
+        "Vegan",
+        "Asiatique"
+      ],
+      "password": "$2y$10$TP/2lvHALvQlyIG3RSLOPu8y6Fx3QOxfHL7oWEbv.M8uH2Wul1ele"
+    },
+    {
+      "userId": 5,
+      "username": "Test1",
+      "email": "test1@courriel.com",
+      "preferences": [
+        "Vegan",
+        "Asiatique",
+        "Fran&ccedil;ais"
+      ],
+      "password": "$2y$10$DMbVpOCxhDjjFqNlOBTRYOu6SbVFlwQyN6eK2S4TEY9PycKEG9H2S"
+    },
+    {
+      "userId": 6,
+      "username": "Utilisateur1234",
+      "email": "utilisateur@email.com",
+      "preferences": [
+        "Italien",
+        "Asiatique"
+      ],
+      "password": "$2y$10$saz7VwWZjWHo/lTMUERR6e0s53BSu0kNhREap/ue4pXeNVDiVKBny"
+    },
+    {
+      "userId": 7,
+      "username": "Joanne",
+      "email": "joanne@hotmail.com",
+      "preferences": [
+        "Fran&ccedil;ais"
+      ],
+      "password": "$2y$10$EistW09B7NB.t9Od6aadLejxWQRPCFG4bxkGvt4AyugMr0aWqwcdG"
+    },
+    {
+      "userId": 8,
+      "username": "Test89",
+      "email": "823u@fjdjds.com",
+      "preferences": [
+        "Asiatique"
+      ],
+      "password": "$2y$10$S..Fm1F2RTssN1tYhuNHVeNoluU/9w.vla.Ub8hXQhr41H9EmgtNe"
+    },
+    {
+      "userId": 9,
+      "username": "test1test",
+      "email": "test@courriel.com",
+      "preferences": [
+        "Fran&ccedil;ais"
+      ],
+      "password": "$2y$10$W5f4hjyOW3SdkLi8diO4z.fC5TpxCLS7zuTLzW.VLy3hENC1QUkAa"
+    },
+    {
+      "userId": 10,
+      "username": "test1test",
+      "email": "test@courriel.com",
+      "preferences": [
+        "Fran&ccedil;ais"
+      ],
+      "password": "$2y$10$/RLEMtqPOdjIu1k0DVwVTOX02iYhEFlyW3F2tQXNaTntGhBfOxZU6"
+    },
+    {
+      "userId": 11,
+      "username": "test1test",
+      "email": "test@courriel.com",
+      "preferences": [
+        "Fran&ccedil;ais"
+      ],
+      "password": "$2y$10$cYajw9brIHkmuzBUkebd5.RNQhzkkfuDzxVALtwX83gtc4GgEkBd."
+    },
+    {
+      "userId": 12,
+      "username": "France",
+      "email": "france@hotmail.com",
+      "preferences": [
+        "Italien",
+        "Vegan",
+        "Asiatique",
+        "Mexicain",
+        "Fran&ccedil;ais",
+        "Americain"
+      ],
+      "password": "$2y$10$DlBPk0E7I3eko7yGIC.2BeSKBRRD5aAJJ5lzsJx9UbHPd9IWyTuQ2"
+    }
+  ]
